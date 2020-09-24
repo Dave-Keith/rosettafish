@@ -22,6 +22,7 @@ Area,Zone
 Area 2 West,Zone 2 ouest
 Area 27,Zone 27
 Arrowtooth Flounder,plie à grande bouche
+Atlantic cod,morue de l'Atlantique
 Aug,août
 August,Aout
 Aurora Rockfish,sébaste aurore
@@ -76,6 +77,7 @@ Central Coast,Côte centrale
 Chilipepper,sébaste de Goode
 China Rockfish,sébaste à bandes jaunes
 Coastwide,Ensemble de la côte
+Cod,morue
 Coefficient,Coefficient
 Commercial,Commercial
 Commercial bottom trawl CPUE,PUE chalut de fond commercial
@@ -141,6 +143,7 @@ Estimate,Estimation
 Estimated,Estimé
 Estimated age at 50% maturity,Âge à 50% maturité estimé
 Estimated annual mean weight,Poids moyen annuel Estimé
+Fall,Automne
 Family,Famille
 Feb,fev
 February,février
@@ -304,6 +307,7 @@ Pearly Prickleback,stichée perlée
 Petrale Sole,plie de Californie
 PRD,DPR
 Pre-COSEWIC Review,Examen pré-COSEPAC
+Precision,Précision
 Predicted biomass density (kg/m2),Densité prévue de la biomasse (kg/m2)
 Prediction (depth effects + spatial random effects),Prédiction (effets de profondeur + effets aléatoires spatiaux)
 Prediction (depth effects only),Prédiction (effets de profondeur seulement)
@@ -405,6 +409,7 @@ Spinyhead Sculpin,chabot à tête épineuse
 Splitnose Rockfish,bec-de-lièvre
 Spotfin Sculpin,icéline à nageoires tachetées
 Spotted Ratfish,chimère d'Amérique
+Spring,Printemps
 SSB,BSR
 SSB/Blim,BSR/Blim
 Standardization,Normalisation
@@ -476,12 +481,15 @@ Whitebait Smelt,éperlan blanchaille
 Whitebarred Prickleback,lompénie à barres blanches
 Whitespotted Greenling,sourcil à taches blanches
 Widow Rockfish,sébaste veuve
+Winter,Hiver
 Wolf Eel,loup ocellé
 y,a
 Year,Année
 Years,Années
 Yelloweye Rockfish,sébastes aux yeux jaunes
 Yellowmouth Rockfish,sébaste à bouche jaune
+Yellowtail,queue jaune
+Yellowtail Flounder,Limande à queue jaune
 Yellowtail Rockfish,sébaste à queue jaune
 Yes,Oui
 Yield,Rendement
