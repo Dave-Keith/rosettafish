@@ -22,7 +22,7 @@ Area,Zone
 Area 2 West,Zone 2 ouest
 Area 27,Zone 27
 Arrowtooth Flounder,plie à grande bouche
-Atlantic cod, morue de l'Atlantique
+Atlantic cod,morue de l'Atlantique
 Aug,août
 August,Aout
 Aurora Rockfish,sébaste aurore
@@ -77,7 +77,7 @@ Central Coast,Côte centrale
 Chilipepper,sébaste de Goode
 China Rockfish,sébaste à bandes jaunes
 Coastwide,Ensemble de la côte
-Cod, morue
+Cod,morue
 Coefficient,Coefficient
 Commercial,Commercial
 Commercial bottom trawl CPUE,PUE chalut de fond commercial
@@ -138,13 +138,13 @@ Endangered,En voie de disparition
 Endeavour Hydrothermal Vents Marine Protected Area,Zone de protection marine du champ hydrothermal Endeavour
 English Sole,carlottin anglais
 Equipment,équipement
-Era, Époque
+Era,Époque
 ESoG,EDG
 Estimate,Estimation
 Estimated,Estimé
 Estimated age at 50% maturity,Âge à 50% maturité estimé
 Estimated annual mean weight,Poids moyen annuel Estimé
-Fall, Automne
+Fall,Automne
 Family,Famille
 Feb,fev
 February,février
@@ -154,7 +154,7 @@ fish,poisson
 fish/skate,poisson/raie
 Fisheries,Pêches
 Fishery,Pêche
-Fishery catchability,La capturabilité�dans le pêche
+Fishery catchability,La capturabilité dans le pêche
 Fishing event,événements de pêche
 Fishing events,événements de pêche
 Fishing events excluded due to Privacy Act,Activités de pêche exclues en raison de la Loi sur la protection des renseignements personnels
@@ -280,6 +280,7 @@ Number of age-2 recruits,Nombre de recrues d’âge 2
 Number of hooks returned each year,Nombre d’hameçons récupérés chaque année
 Objective,Objectif
 Observed annual mean weight,Poids moyen annuel observé
+Occurence Probability,probabilité d'occurrence
 Oct,oct
 October,octobre
 OM,ME
@@ -307,8 +308,8 @@ Parameter,Paramètre
 Pearly Prickleback,stichée perlée
 Petrale Sole,plie de Californie
 PRD,DPR
-Precision, Précision
 Pre-COSEWIC Review,Examen pré-COSEPAC
+Precision,Précision
 Predicted biomass density (kg/m2),Densité prévue de la biomasse (kg/m2)
 Prediction (depth effects + spatial random effects),Prédiction (effets de profondeur + effets aléatoires spatiaux)
 Prediction (depth effects only),Prédiction (effets de profondeur seulement)
@@ -410,7 +411,7 @@ Spinyhead Sculpin,chabot à tête épineuse
 Splitnose Rockfish,bec-de-lièvre
 Spotfin Sculpin,icéline à nageoires tachetées
 Spotted Ratfish,chimère d'Amérique
-Spring, Printemps
+Spring,Printemps
 SSB,BSR
 SSB/Blim,BSR/Blim
 Standardization,Normalisation
@@ -482,15 +483,15 @@ Whitebait Smelt,éperlan blanchaille
 Whitebarred Prickleback,lompénie à barres blanches
 Whitespotted Greenling,sourcil à taches blanches
 Widow Rockfish,sébaste veuve
-Winter, Hiver
+Winter,Hiver
 Wolf Eel,loup ocellé
 y,a
 Year,Année
 Years,Années
 Yelloweye Rockfish,sébastes aux yeux jaunes
 Yellowmouth Rockfish,sébaste à bouche jaune
-Yellowtail, queue jaune
-Yellowtail Flounder, Limande à queue jaune
+Yellowtail,queue jaune
+Yellowtail Flounder,Limande à queue jaune
 Yellowtail Rockfish,sébaste à queue jaune
 Yes,Oui
 Yield,Rendement
